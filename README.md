@@ -15,3 +15,5 @@ SereneSupport stands as a dedicated mental health support website with a primary
 3. **Content Related to Mental Health:**
    SereneSupport offers a comprehensive repository of educational content, articles, and resources centered around mental health. This content is curated by mental health professionals, ensuring accuracy and relevance. Users can access information on various mental health conditions, coping strategies, and self-help techniques. The goal is to empower users with knowledge, fostering a deeper understanding of mental health and promoting overall well-being.
 
+**WebApp URL** : https://serenesupport.000webhostapp.com/index.php
+
