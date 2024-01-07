@@ -1,5 +1,5 @@
 # SereneSupport
-**Project Overview: SereneSupport - Mental Health Support Website**
+**SereneSupport - Mental Health Support Website**
 
 **Purpose:**
 SereneSupport stands as a dedicated mental health support website with a primary objective of providing individuals a secure and accessible platform to foster their mental well-being. The platform aims to empower users by offering a diverse range of tools, resources, and support mechanisms, thereby facilitating a proactive approach to managing their mental health.
@@ -15,7 +15,3 @@ SereneSupport stands as a dedicated mental health support website with a primary
 3. **Content Related to Mental Health:**
    SereneSupport offers a comprehensive repository of educational content, articles, and resources centered around mental health. This content is curated by mental health professionals, ensuring accuracy and relevance. Users can access information on various mental health conditions, coping strategies, and self-help techniques. The goal is to empower users with knowledge, fostering a deeper understanding of mental health and promoting overall well-being.
 
-4. **Personalized Dashboard:**
-   Each user benefits from a personalized dashboard that tracks their mental health progress, appointment history, and engagement with the platform. The dashboard also provides tailored recommendations based on user preferences and needs, ensuring a customized and effective experience.
-
-In conclusion, SereneSupport strives to revolutionize the approach to mental health by seamlessly integrating cutting-edge technology with compassionate, human-centric design. The inclusion of an AI chatbot, appointment-making system, curated content, and personalized dashboard creates a holistic and user-friendly environment, empowering individuals to take control of their mental well-being journey.
